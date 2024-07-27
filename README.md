@@ -1,2 +1,2 @@
-- **👋 Hi, I’m Kb Bohara
+- Hi, I’m Kb Bohara
 - 🌱 I’m currently learning web development (MERN)
